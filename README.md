@@ -8,6 +8,13 @@ building a [seq2seq](https://google.github.io/seq2seq/) encoder-decoder chatbot 
 
 *files:*
 
+Datasets that I used can be found here: <br>
+
+1) https://www.kaggle.com/watts2/glove6b50dtxt <br>
+2) https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html <br>
+
+<br>
+
 `chatbot.ipynb` -- Notebook that you need to run through the get the model built and saved. *The model is saved in a h5 format*.
 <br>
 
